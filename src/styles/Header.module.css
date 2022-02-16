@@ -1,0 +1,22 @@
+
+
+.backHead {
+  background-color: #314247;
+  width:100%; /* Establecemos que el header abarque el 100% del documento */
+	overflow:hidden; /* Eliminamos errores de float */
+}
+.gen{
+  width:90%;
+  margin:auto; /* Centramos los elementos */
+	overflow:hidden;
+}
+
+.logo{
+  float:left  ;
+
+}
+
+.navbar{
+  display: flex;
+  justify-content:center;
+}

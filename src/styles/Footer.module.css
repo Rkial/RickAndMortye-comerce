@@ -1,0 +1,33 @@
+.container {
+  height: 1px
+}
+.cabecera {
+  font-size: 1rem;
+  padding-top: 20px;
+  color: white;
+}
+.parrafos {
+  font-size: 0.8rem;
+  color: aliceblue;
+}
+.backFoot {
+  clear:both;
+  height: 25%;
+  background-color: #314247;
+}
+
+.buscar{
+  overflow:hidden;
+  height: 100%;
+  padding: 10px;
+   background-color: #3e575f;
+   
+}
+
+ 
+
+.buscar nav{
+   float: right;
+   display: flex;
+   justify-content: right;
+}

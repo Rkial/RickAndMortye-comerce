@@ -1,0 +1,14 @@
+.imagen_rick {
+  background-image: url(../images/walpaper-background.png);
+  
+  color: #B3C9C9;
+  height: 1080px;
+  width: 1920px;
+  background-repeat: no-repeat;
+}
+.button {
+  font-size:x-large;
+  font-family: "Pangolin", cursive;
+
+}
+

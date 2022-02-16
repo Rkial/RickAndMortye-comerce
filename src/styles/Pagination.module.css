@@ -1,0 +1,35 @@
+.paginacion {
+  padding: 1.4rem;
+}
+.container {
+  margin: 0;
+}
+
+.paginacion ul {
+  list-style: none;
+  text-align: center;
+}
+
+.paginacion ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.paginacion ul li button {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  background: #024959;
+  text-decoration: none;
+  border-style: none;
+  border-radius: 0.5rem;
+}
+
+.paginacion ul li button:hover {
+  background: #037e8c;
+}
+
+.paginacion ul li .active {
+  background: #037e8c;
+  font-weight: bold;
+}

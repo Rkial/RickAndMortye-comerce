@@ -1,0 +1,51 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.fondo{
+  background-color: #B3C9C9;
+}
+
+
+  .Categorias{
+      height: 100vh;
+      padding: 10px;
+      background-color: aquamarine;
+    float: left;
+    }
+
+.containerTitle {
+  
+    display:inline-block; 
+   text-align: center;
+  }
+  .title {
+    
+    font-family: "Rampart One", cursive;
+    color: white;
+    font-size: 3rem;
+    
+  }
+  .buscar{
+    background-color: #3e575f;
+    overflow:hidden;
+    height: 100%;
+    width: 100%;
+    height: 50px;
+     
+     
+  }
+  
+  .carrito{
+  display:flex;
+  justify-content:center;
+
+  }
+
+  .grow{
+    flex-grow: 1;
+  }
+
+  .productos{
+    padding: 0px;
+  }
